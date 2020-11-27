@@ -1,0 +1,17 @@
+class operator
+{
+public static viod main(string args[])
+{
+int a=5;
+int b=7;
+system .out.println("a&b="+(a&b));
+system .out.println("a/b="+(a/b));
+system .out.println("a^b="+(a^b));
+system .out.println("~a="+~a);
+a&=b;
+system .out.println("a="+a);
+}
+}
+}
+
+
