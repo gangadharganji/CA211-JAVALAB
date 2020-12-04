@@ -1,5 +1,5 @@
 import java.util.*;
-class lab5
+class Lab5
 {
   void rev()
   {
@@ -57,7 +57,7 @@ class lab5
    }
    public static void main(String args[])
    {
-    lab5 ob=new lab5();
+    Lab5 ob=new Lab5();
     ob.rev();
     ob.palin();
     ob.sort();
@@ -75,4 +75,3 @@ class lab5
 }
   	
  
-a
